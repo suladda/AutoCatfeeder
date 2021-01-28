@@ -1,0 +1,12 @@
+{
+    "Variable FeederF" : {
+      "Value" : "Feeder Full"
+    },
+    "Variable Servo" : {
+      "ValueS" : "Fluse"
+    },
+    "Variable Ultrasonic" : {
+      " CM " : "0"
+    }
+  }
+  
